@@ -11,7 +11,7 @@ Loom Demo Link: https://www.loom.com/share/a3cddcd67693464795efd10d9f57d3ec
 1. Clone the repository:
 
    ```bash
-git clone https://github.com/meghaSingh1/github-searcher-api.git
+git clone https://github.com/meghaSingh1/github_searcher.git
 
 1. Navigate to the project directory:
 
@@ -73,3 +73,4 @@ Usage:
 1. Access the React app in your browser.
 2. Enter the search query and select the search type (Users or Repositories).
 3. View the search results.
+

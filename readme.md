@@ -15,11 +15,11 @@ git clone https://github.com/meghaSingh1/github_searcher.git
 
 1. Navigate to the project directory:
 
-cd github-searcher-api
+```cd github-searcher-api
 
 2. Create a virtual environment (recommended):
 
-python -m venv venv
+```python -m venv venv
 
 3. Activate the virtual environment:
 

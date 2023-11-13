@@ -10,7 +10,7 @@ Loom Demo Link: https://www.loom.com/share/a3cddcd67693464795efd10d9f57d3ec
 
 1. Clone the repository:
 
-   ```bash
+```bash
 git clone https://github.com/meghaSingh1/github_searcher.git
 ```
 
